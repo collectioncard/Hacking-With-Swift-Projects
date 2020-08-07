@@ -28,6 +28,9 @@ class ViewController: UITableViewController {
             }
         }
 
+        //might as well make sure that the array is sorted
+        pictures.sort();
+
         //print the picture locations to the console
         print(pictures);
     }
@@ -47,6 +50,8 @@ class ViewController: UITableViewController {
         if let vc = storyboard?.instantiateViewController(withIdentifier: "Detail") as? DetailViewController{
             //if we are here, we were able to get the Detail View Controller
             vc.selectedImage = pictures[indexPath.row];
+            vc.imageNumber = indexPath.row + 1;
+            vc.numOfImages = pictures.count;
 
             //now present this view
             navigationController?.pushViewController(vc, animated: true);

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1b996a1-7c69-4c9d-b261-77502de2f58f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Project 3.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3.xcodeproj/project.xcworkspace/xcuserdata/thomas.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3.xcodeproj/project.xcworkspace/xcuserdata/thomas.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3.xcodeproj/xcuserdata/thomas.xcuserdatad/xcschemes/Project One.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3.xcodeproj/xcuserdata/thomas.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Assets.xcassets/AppIcon.appiconset/1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Assets.xcassets/AppIcon.appiconset/114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Assets.xcassets/AppIcon.appiconset/120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Assets.xcassets/AppIcon.appiconset/180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Assets.xcassets/AppIcon.appiconset/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Assets.xcassets/AppIcon.appiconset/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Assets.xcassets/AppIcon.appiconset/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Assets.xcassets/AppIcon.appiconset/58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Assets.xcassets/AppIcon.appiconset/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Assets.xcassets/AppIcon.appiconset/80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Assets.xcassets/AppIcon.appiconset/87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Content/nssl0033.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Content/nssl0034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Content/nssl0041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Content/nssl0042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Content/nssl0043.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Content/nssl0045.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Content/nssl0046.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Content/nssl0049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Content/nssl0051.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Content/nssl0091.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/DetailViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 3/ViewController.swift" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_B83D2B48-8524-44B8-9458-65711BC09190" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fn95sCnOQH4suS88IxxtDv5sKJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Project One" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project 3" TARGET_NAME="Project 3" CONFIG_NAME="Debug" SCHEME_NAME="Project One" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="Project 3" RUN_TARGET_NAME="Project 3" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1b996a1-7c69-4c9d-b261-77502de2f58f" name="Default Changelist" comment="" />
+      <created>1596842809184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596842809184</updated>
+      <workItem from="1596842810323" duration="746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2518" height="272" key="GridCell.Tab.0.bottom" timestamp="1596843493142">
+      <screen x="0" y="22" width="2560" height="1004" />
+    </state>
+    <state width="2518" height="272" key="GridCell.Tab.0.bottom/-1680.723.1680.1028/0.22.2560.1004@0.22.2560.1004" timestamp="1596843493142" />
+    <state width="2518" height="272" key="GridCell.Tab.0.center" timestamp="1596843493141">
+      <screen x="0" y="22" width="2560" height="1004" />
+    </state>
+    <state width="2518" height="272" key="GridCell.Tab.0.center/-1680.723.1680.1028/0.22.2560.1004@0.22.2560.1004" timestamp="1596843493141" />
+    <state width="2518" height="272" key="GridCell.Tab.0.left" timestamp="1596843493141">
+      <screen x="0" y="22" width="2560" height="1004" />
+    </state>
+    <state width="2518" height="272" key="GridCell.Tab.0.left/-1680.723.1680.1028/0.22.2560.1004@0.22.2560.1004" timestamp="1596843493141" />
+    <state width="2518" height="272" key="GridCell.Tab.0.right" timestamp="1596843493141">
+      <screen x="0" y="22" width="2560" height="1004" />
+    </state>
+    <state width="2518" height="272" key="GridCell.Tab.0.right/-1680.723.1680.1028/0.22.2560.1004@0.22.2560.1004" timestamp="1596843493141" />
+  </component>
+</project>
